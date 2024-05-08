@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Video of Todo App in Action
+
+https://github.com/wumionwheels/todo_app/assets/23156958/bd8cadf9-d93b-48f5-bf7e-105e5bd0cf2a
+
